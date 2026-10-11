@@ -1,0 +1,1 @@
+Comandos aprendidos: init, add, commit, push, status, diff, log
